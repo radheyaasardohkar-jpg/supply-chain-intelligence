@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Test and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Generated database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.log
+# Generated data and local database
+data/processed/supply_chain.db
+data/processed/retail_store_inventory_clean.csv
+
+# Original dataset — download separately if needed
+data/raw/retail_store_inventory.csv
