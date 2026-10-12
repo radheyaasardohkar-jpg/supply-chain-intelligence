@@ -5,7 +5,9 @@ An end-to-end retail analytics project for demand forecasting, inventory risk mo
 ## Overview
 
 Retail businesses need to balance inventory availability against the risk of holding too much stock. This project transforms retail inventory data into actionable insights through a reproducible Python data pipeline, SQL analytics, forecasting benchmarks, and a Streamlit dashboard.
+## Dashboard Preview
 
+![Supply Chain Intelligence Dashboard](screenshots/dashboard-overview.png)
 **Project status:** Core data processing, analytics, forecasting benchmarks, inventory risk assessment, and dashboard development completed.
 
 ## Key Features
